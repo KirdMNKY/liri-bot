@@ -1,0 +1,71 @@
+concert-this
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Artist: Dave Matthews Band
+
+Venue: Fiddler's Green Amphitheatre
+
+Location: Englewood, CO, United States
+
+Date: 08/24/2018
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+======================================
+movie-this
+
+****************************************
+
+Title: Turbo Kid
+
+Year: 28 Aug 2015
+
+Rating: NOT RATED
+
+Rotten Tomatoes Score: 89%
+
+Country: Canada, New Zealand, USA
+
+Language: English
+
+Plot: In a post-apocalyptic wasteland in 1997, a comic book fan adopts the persona of his favourite hero to save his enthusiastic friend and fight a tyrannical overlord.
+
+Actors: Munro Chambers, Laurence Leboeuf, Michael Ironside, Edwin Wright
+
+****************************************
+
+======================================
+spotify-this-song
+
+-------------------------------------
+
+
+Artist(s): Queen
+
+Song: We Are The Champions - Remastered 2011
+
+Preview Link: null
+
+Album: News Of The World (Deluxe Remastered Version)
+
+-------------------------------------
+
+======================================
+do-what-it-says
+spotify-this-song
+
+-------------------------------------
+
+
+Artist(s): Backstreet Boys
+
+Song: I Want It That Way
+
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=de834a158ce64104911086e7a74eb8fc
+
+Album: The Hits--Chapter One
+
+-------------------------------------
+
+======================================
