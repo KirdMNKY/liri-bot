@@ -4,7 +4,7 @@ Bot that will display information based on a set of commands.
 # Commands to Use
 Run in the terminal
 node liri <command> <search>
-  <command>
+  ##command
   
   concert-this
   
@@ -15,7 +15,7 @@ node liri <command> <search>
   do-what-it-says (no search term required)
   
 -------------
-  <search>
+  ##search
   
   artist name
   
