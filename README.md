@@ -14,11 +14,15 @@ node liri <command> <search>
   
   do-what-it-says (no search term required)
   
-
+-------------
   <search>
+  
   artist name
+  
   song name
+  
   movie name
+  
   
 The do-what-it-says command will execute a list of commands stored in the random.txt file.
   
