@@ -5,10 +5,15 @@ Bot that will display information based on a set of commands.
 Run in the terminal
 node liri <command> <search>
   <command>
+  
   concert-this
+  
   spotify-this-song
+  
   movie-this
+  
   do-what-it-says (no search term required)
+  
 
   <search>
   artist name
